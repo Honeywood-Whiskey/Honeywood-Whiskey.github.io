@@ -64,7 +64,7 @@ main{max-width:1200px;margin:40px auto;padding:0 20px}
 	top:14px;
 	width:6px;
 	height:calc(100% - 28px);
-	background:linear-gradient(180deg,var(--secondary),var(--primary));
+	background:linear-gradient(180deg,var(--blue),var(--primary));
 	border-radius:6px;
 }
 
